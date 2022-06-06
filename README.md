@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NuelEdeh
-- 👀 I’m interested in meeting new developers and helping bring their ideas to market.
-- 🌱 I’m currently learning Javascript, python and scoring 3 pointers at the basketball court.
+- 👀 I’m passionare about human-led tech-powered innovation.
+- 🌱 I’m a chemical engineer and a founder at Neat.run.
 - 💞️ I’m looking to collaborate on open source projects and SaaS tools for productivity.
 - 📫 How to reach me: Twitter DMs are open: @Nuel_Edeh
 
