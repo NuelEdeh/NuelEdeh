@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @NuelEdeh
-- 👀 I’m passionare about human-led tech-powered innovation.
-- 🌱 I’m a chemical engineer and a founder at Neat.run.
-- 💞️ I’m looking to collaborate on open source projects and SaaS tools for productivity.
-- 📫 How to reach me: nuel@getneat.io 
+- Hi, I’m @NuelEdeh
+- I’m passionate about human-led, tech-powered innovation.
+- I’m a chemical engineer and a founder at Neat.run.
+- What's the meaning of life? - Your life is a gift. Make good choices. Form good relationships. Do good work.
 
 <!---
 NuelEdeh/NuelEdeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
