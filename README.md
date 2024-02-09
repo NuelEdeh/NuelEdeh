@@ -1,6 +1,5 @@
-- Hi, I’m @NuelEdeh
-- I’m a chemical engineer and a founder at Neat.run.
-  
+- Hi, I’m @NuelEdeh. I’m a chemical engineer and a founder at Neat.run.
+- I'm currently working as a Product Manager at Cloudflare.com
 - What's the meaning of life? - Your life is a gift. Make good choices. Form good relationships. Do good work.
 
 <!---
